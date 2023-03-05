@@ -710,7 +710,7 @@ header .shopping-cart.active {
     }
     .footer .box-container .box .payment-img{
         margin-top: 2rem;
-        width: 10rem;
-        height: 7rem;
+        width: 50rem;
+        height: 10rem;
     }
 }
